@@ -1,4 +1,0 @@
-
-class task2Test {
-
-}
